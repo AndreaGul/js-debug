@@ -68,9 +68,6 @@ function loopToFive() {
 //richiamo la funzione per verificare in console
 loopToFive();
 
-//     1- Che cosa fa questo codice?
-//     2- Sono presenti errori di sintassi?
-//     3- Sono presenti errori logici?
 // ESERCIZIO 4 (suggerimento: ci sono 7 errori)
 // function displayEvenNumbers() {
 //     let numbers = [1, 2, 3, 4, 5, 6, 7, 8];
@@ -94,6 +91,8 @@ loopToFive();
 //dopo l'if ci deve essere subito la parentesi quadra quindi bisogna levare il punto e virgola
 //nel push devo inserire l'elemento nell'array che rispetta la condizone
 // il return bisogna spostarlo fuori da l ciclo for
+
+//le keyword delle costanti possono essere anche delle costanti
 
 function displayEvenNumbers() {
   let numbers = [1, 2, 3, 4, 5, 6, 7, 8];
